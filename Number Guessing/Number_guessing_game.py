@@ -1,6 +1,6 @@
 import random
 
-secret_number = random.randint(1,50)
+secret_number = random.randint(1,100)
 print(f'Secret Number Generate by Python is {secret_number}.')
 
 guess = 0
