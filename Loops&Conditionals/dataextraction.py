@@ -1,3 +1,4 @@
+#data extraction
 lines = ["INFO: User login", "ERROR: File missing", "INFO: Backup done", "ERROR: Timeout"]
 
 error_count = 0
