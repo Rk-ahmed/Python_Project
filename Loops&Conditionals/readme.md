@@ -79,29 +79,27 @@ This project follows a structured learning path:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Python_Project.git
-````
-````
-2. Navigate to the project folder:
 
+
+2. Navigate to the project folder:
    ```bash
    cd Python_Project
-   ```
+
 3. Activate your Python environment (optional but recommended):
 
    ```bash
    python -m venv env
    source env/bin/activate  # Linux/Mac
    env\Scripts\activate     # Windows
-   ```
+   
 4. Install required libraries:
 
    ```bash
    pip install -r requirements.txt
-   ```
+
 5. Explore the examples, exercises, and mini projects in their respective folders
 
-````
-````
+---
 ## 📌 Goals for the Future
 
 * Build more **Data Science projects** with real-world datasets.
